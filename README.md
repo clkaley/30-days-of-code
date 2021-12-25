@@ -49,7 +49,9 @@ Given an integer, n, print its first 10  multiples. Each multiple n x i (where )
 
 
 ### Days 6 - Let's Review
-
+`Task
+Given a string,S , of length N that is indexed from 0 to N-1, print its even-indexed and odd-indexed characters as 2 space-separated strings on a single line (see the Sample below for more detail).
+Note:0  is considered to be an even index.`
 
 
 ### Days 7 - Array
@@ -61,7 +63,9 @@ Print 4 3 2 1. Each integer is separated by one space.`
 
 
 ### Days 8 - Dicitonaries and Map
-``
+`Task =>
+Given n names and phone numbers, assemble a phone book that maps friends' names to their respective phone numbers. You will then be given an unknown number of names to query your phone book for. For each name queried, print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry for name is not found, print Not found instead.
+Note: Your phone book should be a Dictionary/Map/HashMap data structure.`
 
 
 ### Days 9 - Recursion
