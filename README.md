@@ -46,8 +46,7 @@ Otherwise, print You are old..`
 
 ### Days 5 - Loops
 `Task =>
-Given an integer, n, print its first 10  multiples. Each multiple n x i (where ) 1<=i<=10 should be printed on a new line in the form: n x i = result.
-`
+Given an integer, n, print its first 10  multiples. Each multiple n x i (where ) 1<=i<=10 should be printed on a new line in the form: n x i = result.`
 
 
 ### Days 6 - Let's Review
@@ -60,8 +59,7 @@ Given an array,A ,N of  integers, print A 's elements in reverse order as a sing
 
 Example
 A=[1,2,3,4];
-Print 4 3 2 1. Each integer is separated by one space.
-`
+Print 4 3 2 1. Each integer is separated by one space.`
 
 
 ### Days 8 - Dicitonaries and Map
