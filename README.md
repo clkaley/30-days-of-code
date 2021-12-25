@@ -36,7 +36,6 @@ Complete the stub code provided in your editor to print whether or not n is weir
 ### Days 4 - Class Instance
 `Task =>
 Write a Person class with an instance variable, age, and a constructor that takes an integer,initialAge , as a parameter. The constructor must assign  to  after confirming the argument passed as  is not negative; if a negative argument is passed as  initialAge, the constructor should set  to  and print Age is not valid, setting age to 0.. In addition, you must write the following instance methods:
-
 yearPasses() should increase the age instance variable by 1.
 amIOld() should perform the following conditional actions:
 If age<13, print You are young..
@@ -50,13 +49,12 @@ Given an integer, n, print its first 10  multiples. Each multiple n x i (where )
 
 
 ### Days 6 - Let's Review
-``
+
 
 
 ### Days 7 - Array
 `Task =>
 Given an array,A ,N of  integers, print A 's elements in reverse order as a single line of space-separated numbers
-
 Example
 A=[1,2,3,4];
 Print 4 3 2 1. Each integer is separated by one space.`
